@@ -1,8 +1,8 @@
 # Reservations Service
 
-## Prequisites
-* [Java (1.8+)]()
-* [Maven]()
+## Prerequisites
+* [Java (1.8+)](https://www.java.com/en/download/manual.jsp)
+* [Apache Maven](https://maven.apache.org/download.cgi)
 * [Shared Static Data Service](https://github.com/billybissic/shared-static-data-service)
 
 ## Pre-Build Tasks
